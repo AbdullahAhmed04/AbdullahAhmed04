@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: Natural Language Processing (NLP), Computer Vision, Big Data technologies, and Parallel & Distributed Computing (PDC).
 - 💬 Ask me about: Machine Learning pipelines, Python development, and building interactive web interfaces with Gradio.
 - 📫 How to reach me: abdullahahmed5u88@gmail.com
-- ⚡ Fun fact: I love single-player story-driven video games and watching football.
+- ⚡ Fun fact: I love old video games and watching football.
 
 ---
 
