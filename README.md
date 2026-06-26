@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 # Abdullah Ahmed
-**BSAI Student @ UCP | Aspiring AI/ML Engineer**
+**BSAI Student | Machine Learning | Computer Vision | Big Data Analytics | Gen AI**
 
 ---
 
