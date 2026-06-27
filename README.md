@@ -5,15 +5,6 @@
   <b>BSAI Student | AI & Machine Learning Specialist | Computer Vision | Big Data Analytics</b>
 </p>
 
-<p align="center">
-  <a href="mailto:abdullahahmed5u88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abdullah-ahmed-5u88">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -54,13 +45,7 @@
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:abdullahahmed5u88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abdullah-ahmed-5u88">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-abdullahahmed5u88%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:abdullahahmed5u88@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Ahmed-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://https://linkedin.com/in/abdullah-ahmed-5u88/)
 
 ---
