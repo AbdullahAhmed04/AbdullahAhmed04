@@ -31,11 +31,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Deep Learning & Computer Vision:**
+**Deep Learning & Computer Vision**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square)
 ![U-Net](https://img.shields.io/badge/U--Net-4B8BBE?style=flat-square)
 ![Semantic Segmentation](https://img.shields.io/badge/Semantic%20Segmentation-2E8B57?style=flat-square)
 ![Instance Segmentation](https://img.shields.io/badge/Instance%20Segmentation-8A2BE2?style=flat-square)
