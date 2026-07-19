@@ -34,10 +34,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
-![U-Net](https://img.shields.io/badge/U--Net-4B8BBE?style=flat-square)
-![Semantic Segmentation](https://img.shields.io/badge/Semantic%20Segmentation-2E8B57?style=flat-square)
-![Instance Segmentation](https://img.shields.io/badge/Instance%20Segmentation-8A2BE2?style=flat-square)
+![Ultralytics YOLO](assets/badges/ultralytics-yolo.svg)
+![U-Net](assets/badges/u-net.svg)
+![Semantic Segmentation](assets/badges/semantic-segmentation.svg)
+![Instance Segmentation](assets/badges/instance-segmentation.svg)
 
 **Big Data**
 
@@ -55,7 +55,7 @@
 
 ### 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-abdullahahmed5u88%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahahmed5u88@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Ahmed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-ahmed-5u88/)
+[![Email](assets/badges/email.svg)](mailto:abdullahahmed5u88@gmail.com)
+[![LinkedIn](assets/badges/linkedin.svg)](https://linkedin.com/in/abdullah-ahmed-5u88/)
 
 ---
